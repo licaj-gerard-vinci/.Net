@@ -1,0 +1,14 @@
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\obj\Debug\net8.0\Exercices C# - Semaine 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\obj\Debug\net8.0\Exercices C# - Semaine 1.AssemblyInfoInputs.cache
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\obj\Debug\net8.0\Exercices C# - Semaine 1.AssemblyInfo.cs
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\obj\Debug\net8.0\Exercices C# - Semaine 1.csproj.CoreCompileInputs.cache
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\bin\Debug\net8.0\Exercices C# - Semaine 1.exe
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\bin\Debug\net8.0\Exercices C# - Semaine 1.deps.json
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\bin\Debug\net8.0\Exercices C# - Semaine 1.runtimeconfig.json
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\bin\Debug\net8.0\Exercices C# - Semaine 1.dll
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\bin\Debug\net8.0\Exercices C# - Semaine 1.pdb
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\obj\Debug\net8.0\Exercices C# - Semaine 1.dll
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\obj\Debug\net8.0\refint\Exercices C# - Semaine 1.dll
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\obj\Debug\net8.0\Exercices C# - Semaine 1.pdb
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\obj\Debug\net8.0\Exercices C# - Semaine 1.genruntimeconfig.cache
+C:\Users\licaj\OneDrive - Haute Ecole Léonard de Vinci\3BIN2\.NET\Exercices C# - Semaine 1\obj\Debug\net8.0\ref\Exercices C# - Semaine 1.dll
